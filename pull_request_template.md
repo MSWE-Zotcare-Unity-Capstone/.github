@@ -25,3 +25,5 @@
 
 - [ ] My change requires a change to the documentation.
 - [ ] **I have built and run the editor to try this change out.**
+- [ ] **I have merged master into my branch** *AND* **it is update to date with master (main branch).**
+- [ ] ***THIS BRANCH HAS NO CONFLICTS WITH MAIN***
