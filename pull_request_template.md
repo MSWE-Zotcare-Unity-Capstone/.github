@@ -27,5 +27,5 @@
 - [ ] My change requires a change to the documentation.
 - [ ] My change has a new package being added to project. MAKE SURE YOU MAKE IT CLEAR AS TO WHY IT IS NEEDED.
 - [ ] **I have built and run the editor to try this change out.**
-- [ ] **I have merged master into my branch** *AND* **it is update to date with master (main branch).**
+- [ ] **I have merged master into my branch** *AND* **it is up to date with master (main branch).**
 - [ ] ***THIS BRANCH HAS NO CONFLICTS WITH MAIN***
