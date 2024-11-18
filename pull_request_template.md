@@ -10,9 +10,9 @@
 <!--- Please link to the issues and tickets here: -->
 
 <!--- ex: [LINK_GOES_HERE] Design Doc Link-->
-- [ ] Design Doc Link
+[ ] Design Doc Link
 <!--- ex: [JIRA_30] Design Doc Link-->
-- [ ] Jira Ticket Link
+[ ] Jira Ticket Link
 
 ## Types of changes
 
