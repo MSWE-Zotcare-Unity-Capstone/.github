@@ -7,7 +7,12 @@
 
 <!--- If suggesting a new feature or change, please discuss it in an issue first -->
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+<!--- Please link to the issues and tickets here: -->
+
+<!--- ex: [LINK_GOES_HERE] Design Doc Link-->
+- [ ] Design Doc Link
+<!--- ex: [JIRA_30] Design Doc Link-->
+- [ ] Jira Ticket Link
 
 ## Types of changes
 
@@ -26,6 +31,7 @@
 
 - [ ] My change requires a change to the documentation.
 - [ ] My change has a new package being added to project. MAKE SURE YOU MAKE IT CLEAR AS TO WHY IT IS NEEDED.
+- [ ] I mentioned the Jira ticekt if applicable to the title of this PR
 - [ ] **I have built and run the editor to try this change out.**
 - [ ] **I have merged master into my branch** *AND* **it is up to date with master (main branch).**
 - [ ] ***THIS BRANCH HAS NO CONFLICTS WITH MAIN***
