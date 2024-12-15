@@ -10,7 +10,9 @@
 <!--- Please link to the issues and tickets here (you can use the git issue link and it should embed): -->
 
 Related Issue:
+
 Jira Ticket:
+
 Reveant Links:
 
 ## Types of changes
