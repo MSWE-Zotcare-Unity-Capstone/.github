@@ -7,12 +7,11 @@
 
 <!--- If suggesting a new feature or change, please discuss it in an issue first -->
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issues and tickets here: -->
+<!--- Please link to the issues and tickets here (you can use the git issue link and it should embed): -->
 
-<!--- ex: [LINK_GOES_HERE] Design Doc Link-->
-[ ] Design Doc Link
-<!--- ex: [JIRA_30] Design Doc Link-->
-[ ] Jira Ticket Link
+Related Issue:
+Jira Ticket:
+Reveant Links:
 
 ## Types of changes
 
