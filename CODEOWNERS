@@ -1,5 +1,5 @@
 # Review for all pull requests
-* @dloe
+#* @dloe
 
 # Github configs PR reviewer (for .github files specifically)
-.github/* @dloe
+#.github/* @dloe
